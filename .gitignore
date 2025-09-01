@@ -1,5 +1,8 @@
 .venv/
 venv/
 .vscode/
-djangotutorial
+djangotutorial/
+model_layer/
 db.sqlite3
+**/__pycache__/
+*.pyc
